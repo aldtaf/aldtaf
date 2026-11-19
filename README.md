@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**aldtaf/aldtaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## About me:
 I am Ace Lovie D. Tafalla, with a flair for coding and database management skills. 
 I thrive on tackling complex problems and crafting elegant solutions. 
