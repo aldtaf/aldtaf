@@ -35,9 +35,9 @@ My journey in tech has started when I took the BS Information Technology program
 - HTML, CSS, and JavaScript Fundamentals
 - Basic Networking Concepts
 - Basic Computer Troubleshooting
-*Tools: * LucidChart, Figma, Jaspersoft Studio, Eclipse, NetBeans, VSCode
+- **Tools: ** LucidChart, Figma, Jaspersoft Studio, Eclipse, NetBeans, VSCode
 
 ## You may reach me at:
-- LinkedIn Profile: (https://www.linkedin.com/in/ace-lovie-tafalla-b31225451/)
-- Email: acetafalla14@gmail.com
+- **LinkedIn: **[LinkedIn Profile](https://www.linkedin.com/in/ace-lovie-tafalla-b31225451/)
+- **Email: **acetafalla14@gmail.com
 
